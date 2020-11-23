@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ToC Tree on AirOne</title>
-    <link>https://geekdocs.de/toc-tree/</link>
+    <link>https://userlocalhost.github.io/hugo-test-20201122/toc-tree/</link>
     <description>Recent content in ToC Tree on AirOne</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="https://geekdocs.de/toc-tree/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://userlocalhost.github.io/hugo-test-20201122/toc-tree/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
