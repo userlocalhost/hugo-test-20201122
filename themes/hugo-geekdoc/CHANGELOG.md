@@ -1,3 +1,0 @@
-- ENHANCEMENT
-  - normalize included svg icons and iconfonts
-  - add new site parameter `geekdocCollapseSection` #23
