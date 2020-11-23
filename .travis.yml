@@ -1,0 +1,7 @@
+language: go
+install:
+  - go get -v github.com/gohugoio/hugo
+script: 
+  - sh -c 'cd docs; hugo'
+after_success:
+  - scripts/deploy_gh_pages.sh

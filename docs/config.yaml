@@ -1,5 +1,5 @@
 ---
-baseURL: https://geekdocs.de/
+baseURL: https://userlocalhost.github.io/hugo-test-20201122/
 title: AirOne
 theme: hugo-geekdoc
 pygmentsUseClasses: true
